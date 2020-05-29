@@ -3,9 +3,6 @@ const common = require('./webpack.common');
 const merge = require('webpack-merge');
 const path = require('path');
 
-server.connection({
-    port: process.env.PORT || 8080 
-});
 
 module.exports = merge(common, {
   mode: 'development',
