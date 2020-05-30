@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio.git"
+    "url": ""
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
