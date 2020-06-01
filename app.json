@@ -1,0 +1,8 @@
+{
+  "name": "portfolio2020",
+  "description": "portfolio",
+  "repository": "https://github.com/acsaralegui/portfolio2020",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": ""
+}
