@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.1",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
